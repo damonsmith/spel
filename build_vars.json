@@ -1,0 +1,9 @@
+{
+    "spel_version": "0.0.4",
+    "subnet_id": "subnet-0335c5acefc1fc38b",
+    "spel_identifier": "BOM-SOE-2",
+    "aws_region": "ap-southeast-2",
+    "source_ami_rhel7_hvm": "ami-0f1ef883e90ca71c0",
+    "spel_amigen7source": "https://github.com/damonsmith/AMIgen7.git",
+    "spel_proxyserver": "http://52.65.176.38:3128/"
+}
